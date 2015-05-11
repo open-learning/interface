@@ -1,6 +1,6 @@
-# Open Learning Interface
+# Open Learning `interface`
 
-Interface is a hardware platform to support [open-learning collaborate](//github.com/open-learning/collaborate) sessions..
+`inteface` is a hardware platform to support [open-learning collaborate](//github.com/open-learning/collaborate) sessions..
 
 This one of the core components needed deliver on the [open-learning foundation](//github.com/open-learning/foundation)s goals on enabling technologies to provide learning to anywhere in the world where you can find internet, a place to gather and students who want to learn.
 
