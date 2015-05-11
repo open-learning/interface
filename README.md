@@ -1,4 +1,4 @@
-# Open Learning `interface`
+# Open-Learning `interface`
 
 `inteface` is a hardware platform to support [open-learning collaborate](//github.com/open-learning/collaborate) sessions..
 
